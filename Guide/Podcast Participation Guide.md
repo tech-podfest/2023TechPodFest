@@ -2,7 +2,7 @@
 ## 往届回顾
 2022年群聊随机一个想法延伸出的中等规模共创活动，最后酝酿出 18档播客节目大联动， 两周连续10场晚间直播，整体浏览量10万+。公益活动也收到很多第三方渠道的大力支持，如小宇宙、活动行等官方支持做了合集力推，部分优选节目也被非常重视内容质量的苹果 podcast 挂上了首页推荐，成果非同一般，超出所有人预期。
 
-![activity_2022_review]()
+![activity_2022_review](https://raw.githubusercontent.com/tech-podfest/2023TechPodFest/main/Images/activity_2022_review.png)
 
 ## 本届期待
 ### 目的：
@@ -27,7 +27,7 @@
 2. 12月4日-12月8日，连续五天，每天定期发布2-5期不同播客的节目；
 3. 来个最后终极大抽奖！
 
-![activity_summary]()
+![activity_summary](https://raw.githubusercontent.com/tech-podfest/2023TechPodFest/main/Images/activity_summary.png)
 
 ## 活动主题：
 四大内容板块，可攒 30+主题
@@ -36,7 +36,7 @@
 3. 技术生态从业指南：职场晋升、技能增长、WLB小窍门等
 4. 技术与跨界：社会公益、艺术、可持续发展等
 
-![activity_conent_section]()
+![activity_conent_section](https://raw.githubusercontent.com/tech-podfest/2023TechPodFest/main/Images/activity_conent_section.png)
 
 
 整体节目单收录只收录每档播客的 **1期** 内容，有意向在单个主题攒 **3期** 音频内容以上可升格为相应出品人
@@ -46,7 +46,7 @@
 2. 10月27日之前完成配对和主题，并着手开始内容录制
 3. 11月前三周开启三波互动预热，在各个合作社区、社交媒体发送预热推文
 
-![activity_timeline]()
+![activity_timeline](https://raw.githubusercontent.com/tech-podfest/2023TechPodFest/main/Images/activity_timeline.png)
 
 **需要特别关注的时间点**：
 1. 10月15日之前，填写完相关信息 [参与播客-信息中转站](https://m5l3qe1mxd.feishu.cn/sheets/LFNBsLTFAh5sp3tu9spcxiGqnef) （*记得还有sheet 2-共筹的奖品池）
