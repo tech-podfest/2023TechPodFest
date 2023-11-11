@@ -27,7 +27,7 @@
 2. 12月4日-12月8日，连续五天，每天定期发布2-5期不同播客的节目；
 3. 来个最后终极大抽奖！
 
-![activity_summary](https://raw.githubusercontent.com/tech-podfest/2023TechPodFest/main/Images/activity_summary.png)
+![activity_summary](https://raw.githubusercontent.com/tech-podfest/2023TechPodFest/main/Images/activity_summary.jpg)
 
 ## 活动主题：
 四大内容板块，可攒 30+主题
