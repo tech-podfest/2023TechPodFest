@@ -3,14 +3,18 @@
 ## 活动安排
 11月13日-12月3日，连续三周，各家播客及社区陆续发出各自听友邀请函/ 节目单/ 金句海报/ 预热音视频内容；
 
-12月4日-12月9日，连续六天，每天发布 5～8 期内容；
+12月4日-12月8日，连续五天，每天发布 10 期左右的内容；
 
 12月9日下午，播主和听友 Happy Hour，say个嗨，碰个杯，对个眼神。
+
+**[活动节目单](https://github.com/tech-podfest/2023TechPodFest/blob/main/DailyList/list.md)**
 
 ## 参与指南
 
 [播客参与指南](https://github.com/tech-podfest/2023TechPodFest/blob/main/Guide/Podcast%20Participation%20Guide.md)
+
 [社区参与指南](https://github.com/tech-podfest/2023TechPodFest/blob/main/Guide/Community%20engagement%20guide.md)
+
 
 ## 活动介绍
 
