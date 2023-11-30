@@ -1,4 +1,19 @@
 # 2023TechPodFest
+
+## 活动安排
+11月13日-12月3日，连续三周，各家播客及社区陆续发出各自听友邀请函/ 节目单/ 金句海报/ 预热音视频内容；
+
+12月4日-12月9日，连续六天，每天发布 5～8 期内容；
+
+12月9日下午，播主和听友 Happy Hour，say个嗨，碰个杯，对个眼神。
+
+## 参与指南
+
+[播客参与指南](https://github.com/tech-podfest/2023TechPodFest/blob/main/Guide/Podcast%20Participation%20Guide.md)
+[社区参与指南](https://github.com/tech-podfest/2023TechPodFest/blob/main/Guide/Community%20engagement%20guide.md)
+
+## 活动介绍
+
 ![header](Images/header.png)
 ![need voice](Images/need_voice.png)
 ![tech](Images/tech.png)
@@ -17,12 +32,5 @@
 ![all podcast](Images/all_podcasts.png)
 
 #2023技术播客节 主打一个多元，内容划分为四大板块，既有面向开发者的「硬核技术」，也有打开眼界的「技术与商业」；既有社会大学般的「技术从业指南」，也有「技术与跨界」36行朋友圈的多彩世界
-
-## 活动安排
-11月13日-12月3日，连续三周，各家播客及社区陆续发出各自听友邀请函/ 节目单/ 金句海报/ 预热音视频内容；
-
-12月4日-12月9日，连续六天，每天发布 5～8 期内容；
-
-12月9日下午，播主和听友 Happy Hour，say个嗨，碰个杯，对个眼神。
 
 ![social](Images/social.jpeg)
